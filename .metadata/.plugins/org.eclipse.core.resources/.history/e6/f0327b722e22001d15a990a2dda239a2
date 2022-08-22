@@ -1,0 +1,12 @@
+package ch13;
+
+public class Student {
+	String studentName;
+	int money;
+	public void take(Bus bus100) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+}

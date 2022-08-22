@@ -1,0 +1,7 @@
+package ch13;
+
+public class Student {
+
+	String studentName;
+	int money;
+}

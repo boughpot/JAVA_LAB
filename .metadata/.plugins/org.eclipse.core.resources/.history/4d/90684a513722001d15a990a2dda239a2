@@ -1,0 +1,17 @@
+package ch15;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		Student studentH = new Student("Hannah", 25000);
+		Student studentJ = new Student("James", 40000);
+		
+		Taxi taxiK = new Taxi();
+		
+		
+		studentH.showStudentInfo();
+		studentJ.showStudentInfo();
+	}
+
+}

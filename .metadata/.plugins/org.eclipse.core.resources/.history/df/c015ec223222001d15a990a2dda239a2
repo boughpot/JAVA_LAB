@@ -1,0 +1,11 @@
+package ch14;
+
+public class Taxi {
+
+	String TaxiName;
+	int money;
+	
+	public Taxi(String TaxiName) {
+		
+	}
+}

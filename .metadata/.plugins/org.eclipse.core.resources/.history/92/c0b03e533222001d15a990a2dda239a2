@@ -1,0 +1,15 @@
+package ch14;
+
+public class Student {
+
+	String name;
+	int money;
+	
+	public Student(String name) {
+		this.name = name;
+	}
+	
+	public void takeTaxi(Taxi taxi) {
+		taxi.take(20000);
+	}
+}

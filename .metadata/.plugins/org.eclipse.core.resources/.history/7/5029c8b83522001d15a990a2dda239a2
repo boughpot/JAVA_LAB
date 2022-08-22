@@ -1,0 +1,13 @@
+package ch15;
+
+public class Taxi {
+
+	int taxiNumber;
+	String taxiName;
+	int passengerCount;
+	int money;
+	
+	public Taxi(int taxiNumber) {
+		this.taxiNumber = taxiNumber;
+	}
+}

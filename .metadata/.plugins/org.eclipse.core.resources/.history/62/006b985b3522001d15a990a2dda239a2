@@ -1,0 +1,11 @@
+package ch15;
+
+public class Student {
+
+	String studentName;
+	int money;
+	
+	public Student(String studentName, int money) {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package ch13;
+
+public class Subway {
+
+	int subwayNumber;
+	int passenger;
+	int money;
+	
+	public Subway(int subwayNumber) {
+		
+	}
+}
