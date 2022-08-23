@@ -1,3 +1,5 @@
+SHOW_LOCATION=true
+SHOW_PERSPECTIVE_IN_TITLE=true
 eclipse.preferences.version=1
 platformState=1625818996970
 quickStart=false
